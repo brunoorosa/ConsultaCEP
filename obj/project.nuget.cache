@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1tsKDfqCtlxBZeqESwM+33xi/7n7sdl4zmYYS1RSzOs7XDQKDHN7FoDcVHw/mT0o2N55Dl+rz62KbA4n3x/Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.soliveira\\Documents\\Pessoal\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\google.protobuf\\3.7.0\\google.protobuf.3.7.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\specflow\\3.9.22\\specflow.3.9.22.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\specflow.nunit\\3.9.22\\specflow.nunit.3.9.22.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.22\\specflow.tools.msbuild.generation.3.9.22.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\bruno.soliveira\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
